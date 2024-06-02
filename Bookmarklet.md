@@ -6,3 +6,7 @@
 2. As yo can see there is a javascript code. Hmmmm something is weird, there is a encrypted string inside it.
 3. Copy the code.
 4. Paste it into console.
+
+5. Hit the enter
+6. And you'll see the flag. EZ
+![image](https://github.com/darwishshathibi/CTF-Write-Up-/assets/119912350/fd25cc33-5fc1-4fcc-b7b2-afa062380121)
