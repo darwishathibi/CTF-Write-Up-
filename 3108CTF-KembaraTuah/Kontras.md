@@ -1,4 +1,4 @@
-# Sejarah Ringkas
+# Kontras
 ## Introduction
 -**Event:** 3108 CTF
 -**Category:** Forensics
