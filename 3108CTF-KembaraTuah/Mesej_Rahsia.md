@@ -1,4 +1,4 @@
-# Sejarah Ringkas
+# Mesej Rahsia
 ## Introduction
 -**Event:** 3108 CTF
 -**Category:** Cryptography
