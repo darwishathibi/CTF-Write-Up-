@@ -18,7 +18,7 @@ The script is to display the list of the sultans by fetching from a file.
 ![Screenshot_2024-09-03_11-12-51](https://github.com/user-attachments/assets/25cd05fe-f21e-41e9-bd61-bf89445a3265)
 
 Then, I seacrh for a list fo sultan kelantan and compare it with the array inside the script.
-<Letak ist sultan kelantan sini >
+![WhatsApp Image 2024-08-30 at 11 57 55_bf6c9f08](https://github.com/user-attachments/assets/cfc4ba9d-83bf-430f-aeb8-c85df954be88)
 
 After that, I copy the path from script and paste ii into seacrh bar. Flag is there.
 ![Screenshot_2024-09-03_11-21-42](https://github.com/user-attachments/assets/d14f3e69-c774-4584-b094-463d8d2f96b9)
