@@ -1,4 +1,3 @@
-![Screenshot_2024-09-25_04-57-26](https://github.com/user-attachments/assets/d7cde7c1-fbdf-4030-be67-c63902d8ac88)# interencdec
 ## Introduction
 -**Event:** Pico CTF
 -**Category:** Cryptography
